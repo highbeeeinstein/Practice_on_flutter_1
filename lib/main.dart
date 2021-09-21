@@ -7,7 +7,7 @@ import 'package:flutter_application_2/horizontal_list.dart';
 // import 'package:flutter_application_2/pop.dart';
 // import 'package:flutter_application_2/stock.dart';
 // import 'package:flutter_application_2/boss.dart';
-import 'high.dart';
+import 'pop_menu.dart';
 
 void main() {
   var app = myBoy();
